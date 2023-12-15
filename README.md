@@ -1,6 +1,6 @@
 [![MasterHead](https://sonomacounty.ca.gov/Ektron%20Images/uploadedImages/Sonoma/ISD/_Images/_carousel/ISD_System_Banner_750.jpg)](https://kingshuk5.io)
 <h1 align="center">Hi 👋, I'm Kingshuk Hazra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingshuk5&label=Profile%20views&color=0e75b6&style=flat" alt="kingshuk5" /> </p>
